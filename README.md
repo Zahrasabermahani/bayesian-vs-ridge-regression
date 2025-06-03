@@ -15,7 +15,7 @@ The dataset had 4 numerical columns — I used the first 3 as input features and
 - Compared their predictions and learned weights
 
 ###  Why Bayesian?
-The Bayesian model doesn’t just give predictions — it tells you **how confident it is** about each one. That’s a big deal when working with noisy or sensitive data.
+The Bayesian model doesn’t just give predictions, it tells you **how confident it is** about each one. That’s a big deal when working with noisy or sensitive data.
 
 ###  Conclusion
 Both models gave reasonable predictions, but Bayesian Ridge added extra value by capturing uncertainty in model parameters. It’s a great step toward more interpretable machine learning.
