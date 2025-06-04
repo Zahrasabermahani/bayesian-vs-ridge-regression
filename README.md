@@ -20,6 +20,4 @@ The Bayesian model doesn’t just give predictions, it tells you **how confident
 ###  Conclusion
 Both models gave reasonable predictions, but Bayesian Ridge added extra value by capturing uncertainty in model parameters. It’s a great step toward more interpretable machine learning.
 
----
-
-## Tools used: `scikit-learn`, `numpy`, `matplotlib`, `pymc`, `StandardScaler`
+Tools used: `scikit-learn`, `numpy`, `matplotlib`, `pymc`, `StandardScaler`
